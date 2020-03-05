@@ -20,4 +20,6 @@ func main() {
 
 	valueIncrement(&i)
 	fmt.Println(i)
+
+	fmt.Println(&i)
 }
