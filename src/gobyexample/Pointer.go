@@ -3,11 +3,11 @@ package main
 import "fmt"
 
 func pointerIncrem(i int) {
-	i++;
+	i++
 }
 
 func valueIncrement(i *int) {
-	*i++;
+	*i++
 }
 
 func main() {

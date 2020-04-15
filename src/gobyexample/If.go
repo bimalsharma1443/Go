@@ -8,17 +8,16 @@ func main() {
 
 	var i int
 
-	_,err := fmt.Scanln(&i)
+	_, err := fmt.Scanln(&i)
 
 	if err != nil {
 		fmt.Println(err)
-		return 
+		return
 	}
-
 
 	if i%2 == 0 {
 		fmt.Println("number is even")
-	}else {
+	} else {
 		fmt.Println("number is odd")
 	}
 
@@ -28,9 +27,9 @@ func main() {
 
 	if i < 0 {
 		fmt.Println("number is -ve")
-	}else if i > 0 {
+	} else if i > 0 {
 		fmt.Println("number is +ve")
-	}else {
+	} else {
 		fmt.Println("number is zero")
 	}
 }

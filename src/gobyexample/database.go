@@ -5,14 +5,12 @@ import "database/sql"
 import _ "github.com/go-sql-driver/mysql"
 import "encoding/json"
 
-
 type User struct {
-	id     	int
-	name    string
-	age   	int
-	mobile 	int
+	id     int
+	name   string
+	age    int
+	mobile int
 }
-
 
 func main() {
 
@@ -22,28 +20,27 @@ func main() {
 	db, err := sql.Open("mysql", "root:@/godemo")
 
 	if err != nil {
-    	panic(err.Error()) // Just for example purpose. You should use proper error handling instead of panic
+		panic(err.Error()) // Just for example purpose. You should use proper error handling instead of panic
 		return
 	}
-	
+
 	defer db.Close()
 
 	err = db.Ping()
 	if err != nil {
-	    panic(err.Error()) // proper error handling instead of panic in your app
-	    return
+		panic(err.Error()) // proper error handling instead of panic in your app
+		return
 	}
 
-
-	rows,err := db.Query("select * from user")
+	rows, err := db.Query("select * from user")
 
 	if err != nil {
-		fmt.Println(err);
+		fmt.Println(err)
 		return
 	}
 
 	for rows.Next() {
-		rows.Scan(&user.id,&user.name,&user.age,&user.mobile)
+		rows.Scan(&user.id, &user.name, &user.age, &user.mobile)
 		users = append(users, user)
 	}
 
@@ -56,6 +53,6 @@ func main() {
 		//returnErrorResponse(response, request)
 	}
 
-	fmt.Println(string(jsonResponse));
+	fmt.Println(string(jsonResponse))
 
 }

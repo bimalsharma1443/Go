@@ -15,6 +15,6 @@ func main() {
 
 	s := <-sigs
 
-	fmt.Println("Got signal:",s)
+	fmt.Println("Got signal:", s)
 
 }

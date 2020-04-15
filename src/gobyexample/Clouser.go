@@ -3,10 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	func () {
+	func() {
 		fmt.Println("Clouser function")
 	}()
-
 
 	incInt := call()
 
