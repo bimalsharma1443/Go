@@ -3,18 +3,16 @@ package main
 import "fmt"
 
 type rect struct {
-	length , breadth int
+	length, breadth int
 }
 
-func (r *rect) area() (int) {
-	return r.length*r.breadth 
-} 
-
-func (r *rect) per() (int) {
-	return 2*(r.length+r.breadth)
+func (r *rect) area() int {
+	return r.length * r.breadth
 }
 
-
+func (r *rect) per() int {
+	return 2 * (r.length + r.breadth)
+}
 
 func main() {
 
@@ -27,14 +25,14 @@ func main() {
 	fmt.Println("Please enter breadth : ")
 	fmt.Scanln(&b)
 
-	rectData := rect {
-		l,b,
+	rectData := rect{
+		l, b,
 	}
 
 	area := rectData.area()
 	permi := rectData.per()
 
 	fmt.Println("area is ", area)
-	fmt.Println("perim is ",permi)
+	fmt.Println("perim is ", permi)
 
 }
