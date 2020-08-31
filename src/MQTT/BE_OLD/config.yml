@@ -1,0 +1,14 @@
+server:
+  masterport: 6001
+  authport: 6000
+  devicetelemetryport: 6002
+  commport: 8083
+  
+
+database:
+    dbname: "mighty_iot"
+    host: "mighty-iot.xoxiot.com"
+    port: 5432
+    user: "postgres"
+    password: "mighty123456"
+  

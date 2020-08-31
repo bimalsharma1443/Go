@@ -12,7 +12,6 @@ import (
 	"net/http"
 
 	"function"
-	
 )
 
 import "time"
@@ -33,9 +32,8 @@ func main() {
 		MaxHeaderBytes: 1 << 20, // Max header of 1MB
 	}
 
-	
-	http.HandleFunc("/", function.Handle)//.Methods("POST")
+	http.HandleFunc("/", function.Handle) //.Methods("POST")
 	log.Fatal(s.ListenAndServe())
 	http.ListenAndServe(":8002", nil)
-	
+
 }

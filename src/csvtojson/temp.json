@@ -1,0 +1,1252 @@
+{
+ "dongleData": [
+  {
+   "dongleID": "1006075320",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"AVTNWPLYX5TXA3VPTH5FRZFACPQUYEXC\"}]}"
+  },
+  {
+   "dongleID": "1010253643",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"XSSMZR8766J3Q753V9EQWEABZ5AKVN5D\"}]}"
+  },
+  {
+   "dongleID": "1031429115",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"8UPBFB4T2TQGHANESWBPDQKHH45754LQ\"}]}"
+  },
+  {
+   "dongleID": "1033653723",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"CVVWDPVY8MVXB6PYKCJFFACMQ5GNKVDK\"}]}"
+  },
+  {
+   "dongleID": "1069173512",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"KPU5SYVV4MM6VUKH5U6EAGGWABUR9SX9\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1587427200,\"activeCode\":\"LTQDTE8NGFVQV5G78N492HZYJNWBNRM6\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"JUGCUYABJQ8JK7XXK446KY9DWNWRKSW5\"}]}"
+  },
+  {
+   "dongleID": "108501715",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"QVJ8KDMX54R76RHDNW4CE8KY7DM8QJT5\"}]}"
+  },
+  {
+   "dongleID": "109732184",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"RK6PS56YYM45GTNY3PD35VTCNGHYFNU4\"}]}"
+  },
+  {
+   "dongleID": "1098242043",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200102",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"PBF3UZ3RGUMJ4YRDXW8UVNN59ADMTY37\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1590796800,\"activeCode\":\"JRZ8JDUG3L77BQYCLVZD7WUPFCPWHJ64\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598659200,\"activeCode\":\"YP2QXWN7WX3FLWAGXHAEN72PD6FT5YXB\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1606694400,\"activeCode\":\"S9CKRENKY5VELUXLAQ2FHTMWTEF6SPAD\"}]}"
+  },
+  {
+   "dongleID": "1102623916",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"6GT7JYV5MWVRXVUX8NM97KWDK33WLWPE\"}]}"
+  },
+  {
+   "dongleID": "1112151732",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"LTG3M6FCNB6QK8DTTUVR5YRMTVPTVXKF\"}]}"
+  },
+  {
+   "dongleID": "1119425973",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"DVMHYYQTYATYGJXBXXQ2XAUWQNQHGDYC\"}]}"
+  },
+  {
+   "dongleID": "1157058380",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"UXL8YJ5LLE7J4MKL974M22GLTQGNS2XD\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1589500800,\"activeCode\":\"W4ESJC9E9N4FX9U99HAWC3KG9DNN7CJ6\"}]}"
+  },
+  {
+   "dongleID": "1157693605",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"8FC43BVQTTHM6BM5RFD9C8VA84PNL3SS\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"K5HCSKMFWV4W9GLSD9MMCSA86W9GJQUF\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"JMK3UXS68RFTPMZG38TYFRJZH3BDUE47\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"UPDWE8BV5WV63JLS69HNSFSSQHDVUP4V\"}]}"
+  },
+  {
+   "dongleID": "1163263375",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"BZ4JJMFWYV8AQBFUPJBFYR9CGL6XC6GS\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1586822400,\"activeCode\":\"J2M3VJ8PTAXFT3W5ZE94G5CFPV639JA6\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1586995200,\"activeCode\":\"HB3BVLNMXJK97DPJK9ZXQGLARY43N8F4\"}]}"
+  },
+  {
+   "dongleID": "1168391993",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"JELZ9AUHSAJPA96J67WUP3U6RRXHC8BU\"}]}"
+  },
+  {
+   "dongleID": "1230217078",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"GVJD7S79K65HV6SPYNVHH5TZPN73LNS3\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"8EKNYCQYGY3PLGE625EHF8WF9JESSB8N\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596067200,\"activeCode\":\"XP3GMTAA94ELLJKSYNMDJUY55BNB47R7\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"86LZWVG43M6ASVHD4T9JQPVAGKCTR3RP\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"LMMCFA8HFCBRVC56X7F8QUSQ9XDEACGF\"}]}"
+  },
+  {
+   "dongleID": "1234567890",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "debug1",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1573862400,\"activeCode\":\"Q4XDR7G6T3A8QU3E5J653LBQ8CQUUUX2\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1576454400,\"activeCode\":\"QGUTPD3VPWC2GV3CX64DTX8858QCAX7S\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1585526400,\"activeCode\":\"9M33TA3BJ9B6KDZWX8SKH6CDH6MCBS8P\"}]}"
+  },
+  {
+   "dongleID": "1234954522",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"9WHXQTL2GUFDFLE5V5SMY8MSTBN75R3G\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"FQ4849RQRLDFRTGG9JC2C64UKJRT7UUU\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"UJUYVX8DNS9PUM8W6A6Y3PUH7LU6GL73\"},{\"stage\":4,\"period\":0,\"startTimestamp\":-62135596800,\"activeCode\":\"RWV58HK9ZVPVY7UWDEAHHQR6JLE7LCQL\"}]}"
+  },
+  {
+   "dongleID": "1252743177",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"Q5QYNQGZKDNBPF4SELDCEAFKG8ND22MS\"}]}"
+  },
+  {
+   "dongleID": "1270168758",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"G6R9UTJ5SWAP6NQDP6NT9VFB378XC44W\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"5H4L935BQMNN5JCDJPCLLXU9AFUFBCJA\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"PBF7EG8TR9Y6J3C46B2D6NZZ697TRP5K\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"TTHE9M7NGSYP87XCT988NKNP59KMRA2B\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"4C26NYASHVUJNP2WPU8TGQ5YEYJGW7TU\"}]}"
+  },
+  {
+   "dongleID": "1286139204",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"4ASRKDWTLGK4N8GE8NJJLSFKHUJYNUF8\"}]}"
+  },
+  {
+   "dongleID": "1310717100",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"T9A2PTN9ENUMAM3RUMKVNPFS46EUV3TP\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"TPJ9FETDZYHTWG6SGM3SYFSKLR5NHJUT\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"AYMDDENJ7E2VQWTAEGUJZYMUGXEAE7P3\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609286400,\"activeCode\":\"7TKAE75KRXG2GC5HCEF89NYNSXUA74AJ\"}]}"
+  },
+  {
+   "dongleID": "131641325",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"GKXF7V7JW2RCJQZRCZJGTQRRA7Q5YMLA\"}]}"
+  },
+  {
+   "dongleID": "1330467486",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"S3UTUN9QFG6MHE3FJCMMFL8T7BA26G3A\"}]}"
+  },
+  {
+   "dongleID": "134180638",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"VG9SLJ7G9BKN9P7PHC9APKQ5THHK7A4P\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"BX3CUKQBR4JFUM9HECHSCHHKVD79JH4B\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"JXVSQN6KLNV3V6J2KLQEW7FCT8N5A46R\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"7F9TBJBBH6439RJ5LZ7S2URTTGUVKZ8S\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"JKFU2LVL6VDM95YK4GX7XSMPQ3CEP67K\"}]}"
+  },
+  {
+   "dongleID": "1360516487",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"HD75VKFXRAUGT5LYU548KVRENR5SC5UH\"}]}"
+  },
+  {
+   "dongleID": "1364367648",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"B3W6NPD9KJXCVU6YBGDVFXE5NCDKJCXP\"}]}"
+  },
+  {
+   "dongleID": "1385165378",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"A3AR7YL9V6A7XMPAAC3TQX8A9E377RWR\"}]}"
+  },
+  {
+   "dongleID": "1395319631",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"TS65U3HCEGGAUVWJ9B9R84F2ZK8WVTP4\"}]}"
+  },
+  {
+   "dongleID": "1397535970",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"CLQMY6T43TQ9VPN38NUED7MRHNBNFDTH\"}]}"
+  },
+  {
+   "dongleID": "1400222720",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"E4XNCNG5B26URVUXQDEGFJETGRBGJ29Q\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"6FHRWMJTFCNWWKL3Y2CEZ2PMK5RRME8Y\"}]}"
+  },
+  {
+   "dongleID": "1401899322",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"EVD8HFHGKNFYJL9SR8YLCW6UKSKDSLML\"}]}"
+  },
+  {
+   "dongleID": "140591446",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"8JBPU9W38285A9BCFE9RQGJH676Q33QZ\"}]}"
+  },
+  {
+   "dongleID": "1406578618",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"VYMNGK76C3XSMKJ6E5LQJ9R6KSEH7JLK\"}]}"
+  },
+  {
+   "dongleID": "1410634420",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"NQWTHVHP9VALPUW8USMEGHSA8DDUKEUD\"}]}"
+  },
+  {
+   "dongleID": "1422616607",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"YWVBH7A2YM3MV76WP44NXL2LWJS5LEE6\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"FALL8QHUDRZPDMH4VKR4AVPF38CYRV5G\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"3W49U7JBE3QQL9KBJP3GL2W8GQQ483SP\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"KBNZNBFMK5UNH6HP43UCUJMLH9MQK5VD\"}]}"
+  },
+  {
+   "dongleID": "1442413423",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"XW387U99EXMCJAJ77VW9FFBBDXLL4Q4B\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"WMAVF58FNJSJQ97HDUR2FEGEK4PZEB69\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"TSKL6WXYZWQGZAGHLFKADMB8ASSGSGNG\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"QCWSBWRP33ARLQE5GDL4326PMA7352Z8\"}]}"
+  },
+  {
+   "dongleID": "1451365667",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"Z4W43MJKB2XX2GU4RND6XVNC3UCUXDAT\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"CEEPVRZ3384U2H3Z5L4B34Y29G4JKW4W\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"QMFJ8CCGZLVQLFFD7TTGGVCS7RJYZDX3\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"LYAUJMVEFW56XWNDRBKG3ACF86WQK8R9\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"LSKL9UKJA6AKKSN5MABT58NGRBY3NVDG\"}]}"
+  },
+  {
+   "dongleID": "1457123378",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"YWUMADHNTCJ4Q5L7EFLXQYGCK6SVUVEA\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"MDV7AD7AK56WLCGTNCWMS7D5DB5RVJUY\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"T955BK4FDKG7AE2AUHMHELQ7QJX669D6\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"6NHGJTE4TN67H88LAY2LCANLFKCZUCPG\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"S9DVA9UXGFU985BH439JZ8EDZ2PZRCRJ\"}]}"
+  },
+  {
+   "dongleID": "1463202064",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"WEJ2NXPFEMLUR5B993QTR76E2CX2MKML\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"SD5CVPQX86CWK4AUGXR45XKXHTL2LAW3\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"BXWFGUCXERCJCW5PH684GFBNZY5T4MNL\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"5X8C8Y8KSYVYLULVWY2E2B8B7M2XQLQY\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"YPTUN6V4Y4LATXJCFDFQGA3G2FCDJGSE\"}]}"
+  },
+  {
+   "dongleID": "1471178721",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"8Y8XCKETN6EE4WSER2VXQKAGNQHD83SL\"}]}"
+  },
+  {
+   "dongleID": "1509973813",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"MELAAC9TG579U3B5XRGY8ZJFLBLG34UJ\"}]}"
+  },
+  {
+   "dongleID": "1514946192",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"QP67S7EDGMX6UNXP5NFHJFYHTF7HKLY4\"}]}"
+  },
+  {
+   "dongleID": "1526392021",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"DMU4G5WL6V4ML629GF9WEFCGGHRMPWMY\"}]}"
+  },
+  {
+   "dongleID": "1526760195",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"NQWGUHSU7KQK8ZGHPHR5A4WF68VJW4T3\"}]}"
+  },
+  {
+   "dongleID": "1540327088",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"T4LKWJANK98L6BPK3JX3QLY58B8E3REZ\"}]}"
+  },
+  {
+   "dongleID": "1550685200",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"8KFQFTS2N3K9K93JKF37G758YQJXZEAQ\"}]}"
+  },
+  {
+   "dongleID": "1608618879",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"WGTWBY59H96Y88L35GH6JPQEV4DW74P7\"}]}"
+  },
+  {
+   "dongleID": "1623533129",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"7THN74D3G7F9EVYSSE38DQDDPCWD2DYA\"}]}"
+  },
+  {
+   "dongleID": "1632074800",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"8L8GLYNDS4LKNWEJXJBV9TKTPELSFCP2\"}]}"
+  },
+  {
+   "dongleID": "1635295461",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"FRWRQ3DWYNNN8KX7KRPDRRQXMWYBHKLU\"}]}"
+  },
+  {
+   "dongleID": "1649822418",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"GV6QAJYJ6HQ6SRZLGBBXCRPV9VQ7LGXM\"}]}"
+  },
+  {
+   "dongleID": "1655772213",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"MU74GL64KTM3T3RHQMWA2JLJ6QXA3R92\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"B494PXE99ZF446YKH4GWCAHTVP3KLCWF\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"DNUMZLMUYXS7SH4M99LEWFAARURXF7HD\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"PD4JYLD2B9YBFXNMTHRSQ3FGVTY4DVVR\"}]}"
+  },
+  {
+   "dongleID": "1665443868",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"SNXTXCLGT79BYN9EV4UXD6XGC9N9YPHB\"}]}"
+  },
+  {
+   "dongleID": "1679202782",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"A4ST4387W4GNUMQ396RNTBXJERVPCK5J\"}]}"
+  },
+  {
+   "dongleID": "1694325406",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"BB7FCFWHJNFQSUBKRED7ULWMEM38MNPU\"}]}"
+  },
+  {
+   "dongleID": "1711240768",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"TC6AD5P574G88NEAJMTFC46W48M33W9F\"}]}"
+  },
+  {
+   "dongleID": "1723990811",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200102",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"85X9LHXVC59MHW25RKQKW5L55LPTYQRC\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1590796800,\"activeCode\":\"HG7X9HUXJLRH3SWH93M49G8PGX8TNALD\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598659200,\"activeCode\":\"BXCE5NARGGCCSQ9LLPV72M9BT7T3P7S4\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1606694400,\"activeCode\":\"UD7GG9S29XQJEERBJVKFFNLK9A5WEGNU\"}]}"
+  },
+  {
+   "dongleID": "1799217421",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"GGV8LB2VWFBE7TKNR5VNLP4JRJASWFWW\"}]}"
+  },
+  {
+   "dongleID": "1802655862",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"S3SXUCQK8ULV4MYYJ96F6R6QU53ZAGF4\"}]}"
+  },
+  {
+   "dongleID": "1807020685",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"5QRH8BXD7ZJE89VQ626G3UGKLDUEMMXU\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"2SZQA3SSQT724B5K9QCPXDU9JTCBPLUL\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"PDUQYXPY5CMGUS5MFB7HZ94VX4ASU568\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"FFNM9VB5K9Y8SAENHYPZSF4V3DUJD9UL\"}]}"
+  },
+  {
+   "dongleID": "1848043132",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"CHXHFY48HWSUFFRE5EZBWJ6H8DNBAJBK\"}]}"
+  },
+  {
+   "dongleID": "1848667021",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"DN9Y96XLQM4RDJT8CZZKHDTDMW2EACFQ\"}]}"
+  },
+  {
+   "dongleID": "1867668762",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"AUFJPQBQHDWLCMDE3K5ARRP9N4HNCVGR\"}]}"
+  },
+  {
+   "dongleID": "1886119103",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"HFLS8NMGCEZW3BCR7MCDRHJKWNUVYUF4\"}]}"
+  },
+  {
+   "dongleID": "1887098870",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"W3JNKMRSAJARJDASZJ3DJMJNKUG5Y9B6\"}]}"
+  },
+  {
+   "dongleID": "1888452935",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"5LAS8SSLBEUSXCMFVAA88HT2SGPWEL6K\"}]}"
+  },
+  {
+   "dongleID": "189364797",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"A7ZCR8NBYA3GX6Y2G982MS3CDEEXCW6F\"}]}"
+  },
+  {
+   "dongleID": "1895919986",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"3284L4MALMEA5H5KMHNW6GV6BTUV7VDS\"}]}"
+  },
+  {
+   "dongleID": "1909736058",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"9BH95W5J24XKXMSWP9MAHFC8WBR5Z2VK\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"9WGP5BUYBCBCEJETBGMLDH8XHBU4A2CN\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"SRMAA7VQCMTVHZVXT94FXCCNRWC9HFJD\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609286400,\"activeCode\":\"DS8X7KQ5TYYN5WVH3NFUAJFDVT6UBCLT\"}]}"
+  },
+  {
+   "dongleID": "1945345373",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "debug",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"XB9F34E4B5N6DSC9JB63Q6HH3EYUYSQ4\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1587427200,\"activeCode\":\"XSCDSMAQPNLTAWY9HHNYFMG74NXE4WW4\"}]}"
+  },
+  {
+   "dongleID": "1957699773",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"MT8N2KKTBNPGWW9NJT6S7A63PWKK3FXA\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"4DCBCLGYV539AKWT5RTBR755KCPPRKUL\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"9LSV4G4GT7TD4GEVBFGVGDM94CT7SM36\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609286400,\"activeCode\":\"GDGHHD2B9TXNGKRDVAJ7S5MKTN9332LR\"}]}"
+  },
+  {
+   "dongleID": "1958107919",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"K24SXCLV8PZEF3LGWH5NEWAQKV5KVD4F\"}]}"
+  },
+  {
+   "dongleID": "1969096850",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"PVDBP3FU37PTG8UZ8DP565LDA7QE7NM9\"}]}"
+  },
+  {
+   "dongleID": "1977811416",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"GEK5YQUJZ9YHLDRRDY6L5STQ46YBFNSW\"}]}"
+  },
+  {
+   "dongleID": "1985142033",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"3NBJ9EY95J8PH84M3E7DLGGXLYH8GPCR\"}]}"
+  },
+  {
+   "dongleID": "1986772326",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"YC6Q4CVQ6AAJ9D6T3UCGRLULUCTW67YD\"}]}"
+  },
+  {
+   "dongleID": "1998623014",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"LKEE5B25Z67JJFD7STYN9BFBWRTEJ9BU\"}]}"
+  },
+  {
+   "dongleID": "2004844741",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"N3L37W49RX9AKPFV7C3MQUGMUJMH6VK5\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"GHQWV8F65PKABUHA9VEAYFDEG8CDV3BJ\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"EKPVAJSQ3KWARARUNRJKQC7SHVHYY5A6\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"MLQ7LP9MQNPQNCXLTC3DLAP6TKKTDVGN\"}]}"
+  },
+  {
+   "dongleID": "2011838970",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200102",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"PMTBDBF47NHELYU4R72TUALYDYMS5C8G\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1590796800,\"activeCode\":\"UEMSH7GLFQE3YZKG8Y9UDWCQ4FNTCTEL\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598659200,\"activeCode\":\"2RU76SG9GMUG9U2SG9AG9TWDNZ749E4P\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1606694400,\"activeCode\":\"S5Z9MY7GGDMY5UYDTBGUTCAR3TBT3UT8\"}]}"
+  },
+  {
+   "dongleID": "2029735248",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"8RM2B2LYAANDN9GGFSMJXU52Q9WBPPBS\"}]}"
+  },
+  {
+   "dongleID": "2032383382",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"BGXQYDUCTXTVNUSQM68PXBN7HZUEP4Y8\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"DTNBNBRXVGK6LAVPS5L8NVE3FW8GX3EC\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"4BGGFY3YVU8CSA4W4BMKW6FX8FNR5EYD\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609286400,\"activeCode\":\"3TU6WW8LX5WWJJUWGHHK9RC49TVXQXXB\"}]}"
+  },
+  {
+   "dongleID": "2077262104",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"8G9RY4J7E9DJR8PUKK92ABD86VUA6BQ7\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"NWNP3MCBAJAFC5T7VNQ5Q5TH95UWRVN4\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"3K89B3SY7QBCKLNKW6GS93RUKCEYWUAA\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"E8VLESY4WUQGHBH6QMPVUR9E86HGVWPU\"}]}"
+  },
+  {
+   "dongleID": "2085203597",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"ETDKG3Q8QPK8R8WTL7NRDY56ABL4FM3Y\"}]}"
+  },
+  {
+   "dongleID": "2086163286",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"FK788TFLZUK3HUYG54JHRLBUDCSN36RU\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"SBUM3NYPPY2MK3YXBRSBALX2D7VXJWWF\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"MHEBL2YKBYHBKWCWRPCTQEDQN97CTR45\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609286400,\"activeCode\":\"FN6QEH66TGRVWJFA7N4LR43FHC9BS2BQ\"}]}"
+  },
+  {
+   "dongleID": "2092769319",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"CYPM476FGA7KRL3S83QWVUGR45WU9AKM\"}]}"
+  },
+  {
+   "dongleID": "2126400727",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"WNSSCBVNHTETUAFVUGKJ269N88FGJM6J\"}]}"
+  },
+  {
+   "dongleID": "2135673845",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"6SD3JABMKX9X797HWGL7PT7RNFJV56NR\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"NHMH2K49Y868L937DUA8ANFTVBRE8CQV\"}]}"
+  },
+  {
+   "dongleID": "2145299078",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"FX5STDHVVEMAD6NEMUMTBB87FQVFAPLB\"}]}"
+  },
+  {
+   "dongleID": "221439370",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200102",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"AMQ9TKE64G8MKRLYNTZP8M7MBFRKGV8Z\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1590796800,\"activeCode\":\"3VK8WEJ8PJK6D9ZV5SSESHGSB83NXSPG\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598659200,\"activeCode\":\"8SWJF6FAQRG8BTDRDDTRBJR5EBULMNUW\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1606694400,\"activeCode\":\"9KUDQSFQVNB5YUC4T3EXL5KVJJN3S6N7\"}]}"
+  },
+  {
+   "dongleID": "225772790",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"VK4TY4DKCWY9P2F9VV6Y9FRMBG2C33UV\"}]}"
+  },
+  {
+   "dongleID": "237743667",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"4NGEXLFJ6YFRM6E7WJHK9SK3EHKAQYRC\"}]}"
+  },
+  {
+   "dongleID": "243034447",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"XBWZUSXJ3DNESY2P5XLUE8ND3NF4C9QB\"}]}"
+  },
+  {
+   "dongleID": "246490764",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"SJW8ZWBRAKCYGSVPLAJGB6U79UHLHQVU\"}]}"
+  },
+  {
+   "dongleID": "271803591",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"R57WGSH7XQUR9XA4D88THLEFSJH7MX28\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1568073600,\"activeCode\":\"LB3WKDJ4CKA3DPXBWSXHDA3JCNTDDBWR\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1569801600,\"activeCode\":\"LRLY5FH4WXE764UUU4DMVAWXQJUDPHW7\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1577664000,\"activeCode\":\"N2RTWBJ5TYP26EE34BTYYYDREGU7NEKC\"}]}"
+  },
+  {
+   "dongleID": "280348497",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"VGSBKF48MGA6HPSLAQ6YBGJAV3W4YD48\"}]}"
+  },
+  {
+   "dongleID": "284594267",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"UA8B6REMBEQFSYE4HPC9XJR9RC3H8LM5\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"PYCJUMH5BEHD3DXVR3CMV4AWC43STPHJ\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"XTWNJ9JZH72TP2W275M4MN8L6R4JW5SJ\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"PWXLS9DBBTUDFVKYVDLAME55K5V74KHP\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"DNEUKH9F9CHKVQBSHCVYU3W7E5URMRT7\"}]}"
+  },
+  {
+   "dongleID": "288036998",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"KKG5LFNPB4NPU77AX6KGERRAXZE7FKBQ\"}]}"
+  },
+  {
+   "dongleID": "293782912",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"HZNJ9AEHSQ5XBHKTDFTMS5JQSB77A9H9\"}]}"
+  },
+  {
+   "dongleID": "321011813",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"6F3N9VCMPY6W7W4A696CRFA9JNPHBXYV\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"73DDP555GC5M3KV4CYVNRJGRRSFVP3G8\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"XAHEJLP8CFQKXLH5WMQ77UJKXTM54L4L\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"9XYBVF5Q5QZTMVSJ5M8EXRRWD73PQRQL\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"MKSSEN3P4DXYMD6QKLXR3Q6VKX7NF644\"}]}"
+  },
+  {
+   "dongleID": "341078762",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"SH5WZDM7KJGCN4GASPBL8TZBBGVJJKG2\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"77DPEJ6TKUPC44GSXU5USKYGABD9FCXE\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"QK9FAFS77EZL7T7QDW5TRFQEGFV4YYRU\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"TVZG5Y9QNHHXTBAT4HDQCSLCVX8RGH8S\"}]}"
+  },
+  {
+   "dongleID": "351006063",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"JT4PDGUKCG5VY5RCA666ARQBMAQW62ST\"}]}"
+  },
+  {
+   "dongleID": "36822582",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"9GBTGAHCUPJJLCRVBNMA45WN88E4HHA4\"}]}"
+  },
+  {
+   "dongleID": "37156386",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"Y9PK2MAJENXD47NT3AM47V9N5FXRSJ9U\"}]}"
+  },
+  {
+   "dongleID": "384816166",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"5FTJNPPGA4R9HLDV9J8QQWRAFKEQVHE2\"}]}"
+  },
+  {
+   "dongleID": "387917312",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"GKPJAQZRWS8YS9B6V2WRJXXS9RNCWNDS\"}]}"
+  },
+  {
+   "dongleID": "401927896",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"MALPNRXD9U4VBFF6LGJAJM86HXKUG456\"}]}"
+  },
+  {
+   "dongleID": "424230687",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"S6S8PVK6GJ6P6MV8LLANK7YAYXVXYAMT\"}]}"
+  },
+  {
+   "dongleID": "4294521",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"RMYDRCSULWFNAXAEEYLBNWQSX6RTUUUC\"}]}"
+  },
+  {
+   "dongleID": "447761568",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"RXFWWWLLHH5YTEN4J67ERFKRJDQ3VBHC\"}]}"
+  },
+  {
+   "dongleID": "461470507",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"VQ9HXFWVVDRJ68JTZCQPTLMAJ9NU7GNF\"}]}"
+  },
+  {
+   "dongleID": "482075778",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"7UW4VNQJGDJHJ7MK4SL8PF8SYHWMM6MF\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"PHUVCH3DRB6XS5RYRLEFK93GECAS8TCA\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"Z7BHDFGYYYK3WSL39FWKS65A3UWCUQT6\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"SV5G8ME93CFUY2DS44KHPDC7KBHVTLUT\"}]}"
+  },
+  {
+   "dongleID": "503304138",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"D44475SVTTM4RXPJHFCKEAQKX2VX8888\"}]}"
+  },
+  {
+   "dongleID": "528326248",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"B88GT7K4LGFHHVJU4NFB8GYFNN64VBJY\"}]}"
+  },
+  {
+   "dongleID": "530532883",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"8PC4SKUN66SX56RRXRMD9EVTYUDKUDQH\"}]}"
+  },
+  {
+   "dongleID": "532609729",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"WQA6DWHSVBALGCA3PWW4LT9RNB78CB8A\"}]}"
+  },
+  {
+   "dongleID": "535711384",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"NM76K6HM7EDSMMJX3ABXMQJ755J6VMJH\"}]}"
+  },
+  {
+   "dongleID": "54515865",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"VREJTQJGFDA8RN3KJU3T458EQ7DD5GXS\"}]}"
+  },
+  {
+   "dongleID": "558829291",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"6VEJHKVXVWQJA9N5BYDBT6Y9L3LPA35V\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"NFQEVVBYPRZUDCTVFH36SMXFRUYEB9XP\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"84HF7TYWEJ7NC7MFYGQN7JRUQ6L5RXFV\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"8AUR36NYJMTSZQ4VF2C3E4XY5PC6ZENU\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"8PENTHLUWQL836CX6PNBN8AEK3WGUK39\"}]}"
+  },
+  {
+   "dongleID": "589128286",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"JD6URBUXQ2P7VT6BUQW37CGD4NCJDPR3\"}]}"
+  },
+  {
+   "dongleID": "607196385",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"YVLKUFLGGMBK6QJP3UTPCVP2JGPNVSSC\"}]}"
+  },
+  {
+   "dongleID": "612807041",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"QCWDQE9B7Y62MGY3VAN278P76YAU3CZG\"}]}"
+  },
+  {
+   "dongleID": "640380589",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200102",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"BBXEX5JV6X7979WNYJ53R47WK46BQPBC\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1590796800,\"activeCode\":\"4AUP3UF4PEL3SQBPZ8BCWUC2S45QHSA5\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598659200,\"activeCode\":\"T9H8FUX4GLVBJ74JBQPPUWV3U68T8GKN\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1606694400,\"activeCode\":\"A9AD9Q4WHES34YNEDL4VH4HDJUCV5FTS\"}]}"
+  },
+  {
+   "dongleID": "652202033",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"2TJY693BRPEN2MNTQZCKPYEQ5LMYD9LU\"}]}"
+  },
+  {
+   "dongleID": "658661409",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"6YUQH7SAQVEARB89VKGY5XAK3TSXSWH8\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"ULADUGAAADLJAF52X5XMQRAN7AF4DJJ3\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596067200,\"activeCode\":\"P8CKMGRFRCWUGX5PB6TRRNJDWVSGKJ5B\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"MA6S75HFLWVHSLDXZYMKXP6EN69H33KF\"}]}"
+  },
+  {
+   "dongleID": "703877659",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"2R2TWT6BPW67FSZ9C7TNHQYKF79BMK4H\"}]}"
+  },
+  {
+   "dongleID": "718708646",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"R9ERUMQJHMS6YKE4WSMD23EGZLSMKZ4Y\"}]}"
+  },
+  {
+   "dongleID": "735081159",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"FLC59CYQHKL98YV36NRVA4THBVC64EZG\"}]}"
+  },
+  {
+   "dongleID": "735780212",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"U26CSCKHBY8KJWLGVFAVCA6PVVTJGKVR\"}]}"
+  },
+  {
+   "dongleID": "73702849",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"4V8KXHEH57XQX5DTL7TG75PRTJFF7L5S\"}]}"
+  },
+  {
+   "dongleID": "744263585",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"XEXN3B8HMCE53XDXENWCGEZXBVLJ35W5\"}]}"
+  },
+  {
+   "dongleID": "75452391",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"MXCXS3HNJQQFQJWTM34DC8XHGNXPF7M9\"}]}"
+  },
+  {
+   "dongleID": "764071264",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"NFBRFYG4SDMJQJUM3RHSKPKCWYTXVGU5\"}]}"
+  },
+  {
+   "dongleID": "770564438",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"V8TACPHGJF3CX6MYHGGVYPKGLC5UBMQP\"}]}"
+  },
+  {
+   "dongleID": "772973094",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"7PF4SFNDW4W6HLDJYXNVVPYLAHWANVD6\"}]}"
+  },
+  {
+   "dongleID": "79093889",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200102",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"EWJ6KYW28VHFXEMEX59FTZFWP8H562JV\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1590796800,\"activeCode\":\"8N5PH9KNNKWA969K9CUYKSGFJGRC3JD6\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598659200,\"activeCode\":\"QYMZGQAYAEQN3EK5XC4CYXLMDED3FSN6\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1606694400,\"activeCode\":\"BXU9C68HFWDEQQ8H37DRBJ84RA53Q7BP\"}]}"
+  },
+  {
+   "dongleID": "795749451",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"3T3YCNY85RBXVB7JR5VSF39HYEKKBL9P\"}]}"
+  },
+  {
+   "dongleID": "796153743",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"WH89GH3GCBNV757GR8CGKPDS495TAFCQ\"}]}"
+  },
+  {
+   "dongleID": "810393236",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"ABYS7PE6PDLGEHWMMRDREG6HFVV3DWHG\"}]}"
+  },
+  {
+   "dongleID": "813730993",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"VL8NHD5DNEWJAJCQCK7UT7Z4W3DKNWUU\"}]}"
+  },
+  {
+   "dongleID": "815617060",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"Z5SKGFFDRZP48SD52EV28Q4AGGCV9ALY\"}]}"
+  },
+  {
+   "dongleID": "822396363",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"8E9CUETAQFL73TZ4C4QADBXPMGQEVGW3\"}]}"
+  },
+  {
+   "dongleID": "826923561",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"P3Q748NNFGR57ADURS6F8UZXQYT3GKAX\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"4M89JRH3WM7FNXECETQ6FUFT3RFF4KNW\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"QN64M4TGVRMQRHANPQ4CU3VE34SQRQQB\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"W42F9MFYCWSEHVRP758ANMRB4HPCX6A9\"}]}"
+  },
+  {
+   "dongleID": "83192507",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200102",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1578960000,\"activeCode\":\"9FDLDWP9NYLGTGGCGCMXBT6ARFJ6WJV5\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1590796800,\"activeCode\":\"T3TPT67UCME7KHV8XTX9R8MAG2BS3XYD\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598659200,\"activeCode\":\"85DJPEYSTP3D9TGFBUQFKRJDKVY9EL7L\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1606694400,\"activeCode\":\"ZS7U9RDDGQQ4PK74D7M7U8NSPKRTWLWY\"}]}"
+  },
+  {
+   "dongleID": "834197828",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"JN7GP9NWBCC3W6K7VQ54C7LKMNCC56B2\"}]}"
+  },
+  {
+   "dongleID": "848712413",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "liang_keep",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"R568W53SD5RLDGRDG9GJ684G5ZUB9YZW\"}]}"
+  },
+  {
+   "dongleID": "849049784",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"44TCGXVFGDZ7CJCMU374RRGE4A6FUVA2\"}]}"
+  },
+  {
+   "dongleID": "866963246",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200509",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1590364800,\"activeCode\":\"DUBPRG7EKZW6N6YEXRDWTWA79GBWA9ZU\"}]}"
+  },
+  {
+   "dongleID": "884129748",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"WSEHCMGRC2WLQ6XUQWGQWBH36CUCR3MN\"}]}"
+  },
+  {
+   "dongleID": "893797675",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"GLB45HFZR3FLDLU8RFMJHXMXZNFSA5AM\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"FZACQJ7FGFBK8VN6EXUGRYVHTQ8XG8YJ\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"8MU95FLSS3PQTF9YDHMBFQC5YWSWMQ2V\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"7P3MR3MJRWQHWJUF3GLRFWDV7CM467YZ\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"UYJBM85GYT8FHKUKMA38XA37VJA7PAUK\"}]}"
+  },
+  {
+   "dongleID": "897137113",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"4MQQC8F4LU3YALXU8KLLM2DNHM2K66PD\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"P2A489L53G6LRCXS32RCUUQML84JCGKU\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"RN68L5S7CDN75SMNX74H98QZ87BP9U8B\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1609372800,\"activeCode\":\"FERFUUFL5944L4B7GWEPTT8JXWX3GQAV\"}]}"
+  },
+  {
+   "dongleID": "930272531",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"YZRYY6QUTL76S3WR93VMA6RKLA867AJF\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"FMTBL4SC7CV26EBRCCXRK4RBQXNRHHSN\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596153600,\"activeCode\":\"NDXYA4GVSK37GXDVJNHCT8YTEE77QXJH\"},{\"stage\":4,\"period\":0,\"startTimestamp\":1598832000,\"activeCode\":\"5WMLWNG6KPZE5QQ9WE7BAG4N6FQ23B2Y\"},{\"stage\":5,\"period\":0,\"startTimestamp\":1601424000,\"activeCode\":\"7J5TG6G6KYFREJJLLHH6M46Q7KGJSKXW\"}]}"
+  },
+  {
+   "dongleID": "939027695",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200420",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"YYUS7GAF6NVYZLM3Z8FHW85R5MPNDFLW\"}]}"
+  },
+  {
+   "dongleID": "944736463",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200421_pass",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587686400,\"activeCode\":\"BRJJ39ZVLDPPRTSC3HGGXMFZ6F44DUAA\"}]}"
+  },
+  {
+   "dongleID": "989838898",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200623",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1594771200,\"activeCode\":\"7F8HW83HMJBEETYHFJSRSD68YKRWRR5P\"}]}"
+  },
+  {
+   "dongleID": "995190869",
+   "adminStageNumber": 1,
+   "adminStage": 1,
+   "remoteAPI": 0,
+   "batch": "20200415",
+   "dongleFlashData": "{\"remoteControl\":0,\"maxtries\":10,\"tries\":0,\"current\":1,\"licenses\":[{\"stage\":1,\"period\":0,\"startTimestamp\":1587772800,\"activeCode\":\"VDXA8R7LNRQSJA8GA6NKSUGTV7SRNEWW\"},{\"stage\":2,\"period\":0,\"startTimestamp\":1593475200,\"activeCode\":\"WBS57ZMCRQCZK896RLLTWJBJGNHKBN8S\"},{\"stage\":3,\"period\":0,\"startTimestamp\":1596067200,\"activeCode\":\"73L5H2PW7Y5DT6NDLRTP9XNKM32TWU3T\"}]}"
+  }
+ ]
+}

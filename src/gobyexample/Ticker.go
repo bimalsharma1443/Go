@@ -11,20 +11,20 @@ func main() {
 	ticker := time.NewTicker(5 * time.Second)
 	done := make(chan bool)
 
-	go func ()  {
+	go func() {
 		for {
 			select {
-			case <-done :
+			case <-done:
 				return
-			case t := <-ticker.C :
-				fmt.Println("Ticker at",t)
+			case t := <-ticker.C:
+				fmt.Println("Ticker at", t)
 			}
-		}	
+		}
 	}()
 
 	time.Sleep(25 * time.Second)
 	ticker.Stop()
-	done<- true
+	done <- true
 	fmt.Println("ticker Stop")
 
 }

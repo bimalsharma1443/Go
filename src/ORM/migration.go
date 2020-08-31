@@ -6,16 +6,24 @@ import (
 )
 
 // creating a model
-type User struct {
+type DeviceLog struct {
 	gorm.Model
-	Name  string
-	Age   string `gorm:"type:varchar(10)"`
-	Email string `gorm:"type:varchar(100)"`
+	DeviceId        string `gorm:"type:varchar(100)"`
+	DeviceChannelId string `gorm:"type:int"`
+	Value           string `gorm:"type:text"`
+	CreatedOn       int64  `gorm:"type:varchar(100)"`
+}
+
+type DeviceModelChannel struct {
+	gorm.Model
+	Name        string `gorm:"type:varchar(100)"`
+	Description string `gorm:"type:text"`
+	DeviceId    string `gorm:"type:varchar(100)"`
 }
 
 func main() {
 	// connect to database
-	db, err := gorm.Open("mysql", "root:@/godb?charset=utf8&parseTime=True&loc=Local")
+	db, err := gorm.Open("mysql", "root:@/iot")
 
 	// checking a err
 	if err != nil {
@@ -26,6 +34,7 @@ func main() {
 	defer db.Close()
 
 	// Migrate the schema
-	db.AutoMigrate(&User{})
+	db.AutoMigrate(&DeviceLog{})
+	db.AutoMigrate(&DeviceModelChannel{})
 
 }
